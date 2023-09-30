@@ -1,1 +1,3 @@
-# odin-recipes
+# odin-recipe
+
+HTML website/project for recipe
